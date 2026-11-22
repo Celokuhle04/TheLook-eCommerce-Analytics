@@ -12,6 +12,20 @@ The analysis addresses 14 business questions to identify performance trends, eva
 
 The project follows an end-to-end analytical workflow, from data preparation and SQL querying to Python exploratory data analysis, Excel reporting and interactive Power BI dashboards.
 
+## Dashboard Previews
+
+### Executive Overview
+
+![Executive Overview](screenshots/executive_overview.png)
+
+### Product Performance
+
+![Product Performance](screenshots/product_performance.png)
+
+### Customer Analysis
+
+![Customer Analysis](screenshots/customer_analysis.png)
+
 ## Business Objectives
 
 - Evaluate overall business performance using key performance indicators (KPIs).
