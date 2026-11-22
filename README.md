@@ -150,6 +150,7 @@ TheLook-eCommerce-Analytics/
     ├── executive_overview.png
     └── product_performance.png 
 ```
+The events dataset is excluded because of its large file size.
 
 ## Methodology
 
