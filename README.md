@@ -146,6 +146,9 @@ TheLook-eCommerce-Analytics/
 ├── .gitignore
 │
 └── screenshots/
+    ├── customer_analysis.png
+    ├── executive_overview.png
+    └── product_performance.png 
 ```
 
 ## Methodology
