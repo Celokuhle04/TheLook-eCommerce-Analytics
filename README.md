@@ -180,3 +180,7 @@ The project follows an end-to-end analytical workflow:
 ## Conclusion
 
 This project demonstrates the application of SQL Server, Python, Excel and Power BI to real-world business analytics problems. It focuses on extracting meaningful insights from e-commerce data, analysing business performance and translating analytical findings into practical recommendations that can support business decision-making.
+
+## Author
+
+*Celokuhle Sandise Ntete* — Junior Data Analyst | Honours Mathematics
