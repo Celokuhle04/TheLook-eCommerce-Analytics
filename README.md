@@ -26,6 +26,8 @@ The project follows an end-to-end analytical workflow, from data preparation and
 
 ![Customer Analysis](screenshots/customer_analysis.png)
 
+[📄Download PDF](powerbi/TheLook_eCommerce_Analytics.pdf) | [⬇️Download PBIX](powerbi/TheLook_eCommerce_Analytics.pbix)
+
 ## Business Objectives
 
 - Evaluate overall business performance using key performance indicators (KPIs).
