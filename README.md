@@ -167,7 +167,7 @@ The project follows an end-to-end analytical workflow:
 
 ## Key Business Metric Definitions
 
-**Qualifying sales:** Order items with a status of `Shipped` or `Complete`.
+**Qualifying sales:** Order items with a status of `Shipped` or `Complete.`
 
 **Total Revenue:** Sum of selling prices for qualifying order items.
 
